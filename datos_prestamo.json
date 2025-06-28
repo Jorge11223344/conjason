@@ -1,0 +1,19 @@
+{
+  "FECHA": "28 de junio de 2025",
+  "NOMBRE_PRESTAMISTA": "Jorge Iván Muñoz Acuña",
+  "RUT_PRESTAMISTA": "10679836-2",
+  "DIRECCION_PRESTAMISTA": "Av. Laguna Grande 1120 casa 36, San Pedro de la Paz",
+  "NOMBRE_REPRESENTANTE": "Jorge Iván Muñoz Acuña",
+  "NOMBRE_EMPRESA": "JIMACOMEX SpA",
+  "RUT_EMPRESA": "78.146.748-0",
+  "DIRECCION_EMPRESA": "Av. Laguna Grande 1120 casa 36, San Pedro de la Paz",
+  "MONTO": "$10.000.000",
+  "PLAZO": "12 meses",
+  "FECHA_VENCIMIENTO": "28 de junio de 2026",
+  "FORMA_PAGO": "transferencia electrónica",
+  "BANCO": "Banco Chile",
+  "TIPO_CUENTA": "Cuenta Corriente",
+  "NUMERO_CUENTA": "2280528105",
+  "INTERES": "no devengará intereses",
+  "INTERES_MORA": "2%"
+}
